@@ -66,9 +66,9 @@ Técnico em Informática | Janeiro de 2016 - Dezembro de 2018
 - Iniciação Científica na área de lógica e matemática.
 
 ### Contato
-Rua São Lucas,
-Machado, Minas Gerais, Brasil
-E-mail: lyvia.a.ne@gmail.com
-Telefone: (35)98703-4423
-GitHub: ![github.com/lyviaAbreu](github.com/lyviaAbreu)
-LinkedIn: ![linkedin.com/in/lyviaAbreu](linkedin.com/in/lyviaAbreu)
+Rua São Lucas, <br>
+Machado, Minas Gerais, Brasil <br>
+E-mail: lyvia.a.ne@gmail.com <br>
+Telefone: (35)98703-4423 <br>
+GitHub: [github.com/lyviaAbreu](github.com/lyviaAbreu) <br>
+LinkedIn:[linkedin.com/in/lyviaAbreu](linkedin.com/in/lyviaAbreu) <br>
