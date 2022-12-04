@@ -71,4 +71,4 @@ Machado, Minas Gerais, Brasil <br>
 E-mail: lyvia.a.ne@gmail.com <br>
 Telefone: (35)98703-4423 <br>
 GitHub: [github.com/lyviaAbreu](github.com/lyviaAbreu) <br>
-LinkedIn:[linkedin.com/in/lyviaAbreu](linkedin.com/in/lyviaAbreu) <br>
+LinkedIn: [linkedin.com/in/lyviaAbreu](linkedin.com/in/lyviaAbreu) <br>
