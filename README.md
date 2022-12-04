@@ -63,4 +63,12 @@ Ciência da Computação | Janeiro de 2019 - Presente
 
 ##### Instituto Federal do Sul de Minas - Campus Machado
 Técnico em Informática | Janeiro de 2016 - Dezembro de 2018
-- Inicição Científica na área de lógica e matemática.
+- Iniciação Científica na área de lógica e matemática.
+
+### Contato
+Rua São Lucas,
+Machado, Minas Gerais, Brasil
+E-mail: lyvia.a.ne@gmail.com
+Telefone: (35)98703-4423
+GitHub: ![github.com/lyviaAbreu](github.com/lyviaAbreu)
+LinkedIn: ![linkedin.com/in/lyviaAbreu](linkedin.com/in/lyviaAbreu)
